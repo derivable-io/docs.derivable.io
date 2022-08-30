@@ -21,7 +21,7 @@ With:
 We have the reserve of C for Derivative Collateral:
 
 $$
-\tag {E0}   R_{DC}=min(R_C,S_D*P_{v/c})
+\tag {E0} R_{DC}=min(R_C,S_D*P_{v/c})
 $$
 
 And the reserve of C for Counter Collateral:
@@ -58,7 +58,7 @@ Collateral Pool allows anyone to:
 
 A pool is created for the first time an amount of **C (𝚫C)** is added. The pool is initialized with:
 
-&#x20;                                                           $$\tag {E2} \Delta_{CP}=S_{CP}=R_{CC}=\Delta_C$$​
+$$\tag {E2} \Delta_{CP}=S_{CP}=R_{CC}=\Delta_C$$​
 
 $$\Delta_{CP}$$ is the amount of **CP** token received by the pool creator, (100% share of the pool).
 
@@ -91,7 +91,7 @@ $$
 Derivative token D can be minted by locking the same market value of C as Derivative Collateral.
 
 $$
-\tag {E5} \Delta_D=\Delta_C/P_V/C
+\tag {E5} \Delta_D=\Delta_C/P_{V/C}
 $$
 
 #### Burn Derivative
@@ -126,8 +126,6 @@ The pool address is deterministically generated using:
 * Derivative Token address
 * Collateral Token address
 * Packed encode of pool configs
-
-
 
 ## Collateral Ratio
 
