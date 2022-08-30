@@ -99,7 +99,7 @@ $$
 Collateral can be unlocked from Derivative Collateral by burning the same market value of D.
 
 $$
-\tag {E6} \Delta_C=\Delta_D*P_V/C
+\tag {E6} \Delta_C=\Delta_D*P_{V/C}
 $$
 
 #### Conversion Fee
