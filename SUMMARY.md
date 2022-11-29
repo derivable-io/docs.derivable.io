@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Trading Manual](README.md)
-  * [Swap](trading-manual/swap.md)
   * [Exposure](trading-manual/exposure.md)
+  * [Swap](trading-manual/swap.md)
   * [Pools](trading-manual/pools.md)
 * [Technical Docs](technical-docs/README.md)
   * [Decentralized Derivatives Liquidity](technical-docs/readme.md)
