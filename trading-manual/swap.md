@@ -8,7 +8,7 @@ description: Swap one token to another.
 Derivable Swap Interface
 {% endembed %}
 
-![](https://lh4.googleusercontent.com/z-Q6uU-6hyLppOUtYv\_hmdjrP3qUSs5Mdw6aSOhdAn--foe7MMjeLJXEG0adtT1dctrqHbOeMxHI8jqQ6Z\_kMdRIJr43DmWaK2IyYqzL-NjfJbKjHTSIAGuQMF1xLB\_\_tuTd58-MmWt-ID7REezS9VQH2l0OkPRWj3dvGHRgoXWWnp2oQIHG3C1pxeI4fw)
+![](<../.gitbook/assets/image (1).png>)
 
 Tokens:
 

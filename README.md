@@ -12,4 +12,4 @@ Your attention and experience are really appreciated by our team.
 
 Pool Info
 
-![](.gitbook/assets/image.png)
+<img src=".gitbook/assets/image (2).png" alt="" data-size="original">
