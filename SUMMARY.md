@@ -2,6 +2,8 @@
 
 * [Trading Manual](README.md)
   * [Swap](trading-manual/swap.md)
-* [Decentralized Derivatives Liquidity](<README (1).md>)
-* [Collateral Pool (CP)](collateral-pool-cp.md)
-* [Liquidation](liquidation.md)
+  * [Exposure](trading-manual/exposure.md)
+* [Technical Docs](technical-docs/README.md)
+  * [Decentralized Derivatives Liquidity](technical-docs/readme.md)
+  * [Collateral Pool (CP)](technical-docs/collateral-pool-cp.md)
+  * [Liquidation](technical-docs/liquidation.md)
