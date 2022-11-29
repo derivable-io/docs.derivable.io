@@ -8,8 +8,4 @@ You are using the Beta/Demo/MVP version of Power Perpetual of the Derivable Prot
 
 Your attention and experience are really appreciated by our team.
 
-![](https://lh3.googleusercontent.com/f9NHQOsGJR\_0wjjid-Jezj4r8chRk1SkSP5Gsop02BW19kyMuxe8Pp7kdWNNc7UKVZD-ulePcdb6Fyn6EdM3IG5sNNcFeCBEuHUlyBmkucqXIRiccYeS7LQWVkvxPyrnobzgUk3FHdH\_TyWnuGDb9H6OhyuHEmTTvftsB7pl8e6mA7MbHOo9RGtQSoGOWA)
-
-Pool Info
-
-<img src=".gitbook/assets/image (2).png" alt="" data-size="original">
+![](.gitbook/assets/image.png)
