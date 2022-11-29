@@ -22,4 +22,9 @@ Restriction:
 * DDL-CP can only swap to CAKE-LP (removeLiquidity)
 * Only WBNB, BUSD, or Cake-LP can swap to DDL-CP. (Not from BNB^x)
 
+Conversion Fee (BETA):
+
+* 0.3% fee is taken when swapping from DDL-CP to Cake-LP (removeLiquidity)
+* No fee is taken for all other swaps
+
 ERC20 and ERC1155 token approval for Derivable’s Router is required.
