@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Trading Manual](README.md)
+* [Concepts](README.md)
+* [Trading Manual](<README (1).md>)
   * [Exposure](trading-manual/exposure.md)
   * [Swap](trading-manual/swap.md)
   * [Pools](trading-manual/pools.md)
