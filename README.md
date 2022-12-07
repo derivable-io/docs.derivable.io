@@ -21,3 +21,9 @@ Exposure: how many times the derivative token value will be changed if the under
 Liquidity Provider Token (LP): the token received when the liquidity is added to an AMM pool.
 
 Collateral Provider Token (CP): the token received when the collateral is added to a Derivable DDL pool.
+
+Collateral Ratio (CR): the ratio of the total token reserve value over the value of the total derivative. Unlike other stablecoins/synthetic protocols, Derivable does not assume or require the CR > 1 property (over-collateralization).
+
+Funding Rate (Exposure Fee): the value the derivative token holder must pay while holding the derivative tokens. The Funding Rate is charged constantly over time. The Funding Rate is different between the Long and Short derivatives and depends on how balanced the two sides are. The less balanced the two sides, the higher the funding rate. The lower the CR value is, the higher the funding rate is.
+
+Deleverage: the action of re-balance the leverage of the DDL pool, to reuse an under-collateralized pool. This action can be done by anyone when the pool is under collateralization.
