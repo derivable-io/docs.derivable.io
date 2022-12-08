@@ -20,3 +20,6 @@
     * [Collateral Asset](technical-docs/power-perpetual/collateral-asset.md)
     * [Token Conversion](technical-docs/power-perpetual/token-conversion.md)
     * [Price Tolerance Ratio](technical-docs/power-perpetual/price-tolerance-ratio.md)
+    * [Funding Rate](technical-docs/power-perpetual/funding-rate.md)
+    * [Exposure Driftage](technical-docs/power-perpetual/exposure-driftage.md)
+    * [Deleverage](technical-docs/power-perpetual/deleverage.md)
