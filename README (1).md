@@ -4,6 +4,12 @@ description: For Traders/Users
 
 # Trading Manual
 
-Trading in Derivable is the act of converting and HODL'ing Power Perpetual tokens to gain exposure to both sides of the market change.
+Holding position in Power Perpetual is holding derivative tokens. E.g. $$ETH^4$$, $$BNB^2$$, $$BTC^{-8}$$
+
+Trading or changing Power Perpetual positions is swapping/converting some derivative tokens to another. E.g. swapping from $$ETH^4$$ to $$ETH^8$$ is increasing exposure/leverage of the same position.
+
+Opening a position is swapping from non-derivative tokens (BNB, WBNB, BUSD, CAKE\_WBNB\_BUSD) to derivative tokens ($$BNB^2$$, $$BNB^{-4}$$).
+
+Closing a position is swapping from all derivative tokens to non-derivative tokens.
 
 ![](.gitbook/assets/image.png)
