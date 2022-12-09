@@ -21,8 +21,8 @@ Information:
 
 Actions:
 
-* Add: add more Cake-LP to your wallet exposure
-* Remove: remove Cake-LP from your wallet exposure
+* Add: add more value to your wallet exposure with Cake-LP, BUSD, WBNB, or BNB
+* Remove: remove value from your wallet exposure to receive Cake-LP
 * Slide: current wallet exposure and desired wallet exposure
 * Swaps: (auto-generated) underlying actions need to execute the change. (MUST approved token for correct calculation)
 * Deleverage: deleverage the pool before executing transactions
