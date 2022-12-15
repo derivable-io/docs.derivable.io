@@ -6,7 +6,7 @@ description: Basic concepts in Derivable
 
 CEX: Centralized Exchange. E.g. Binance, Coinbase, FTX, Mt. Gox, etc.
 
-DEX: Decentralized Exchange. E.g. Uniswap, Pancake Swap, etc.
+DEX: Decentralized Exchange. E.g. Uniswap, PancakeSwap, KyberSwap, etc.
 
 Token Price (P) is the market price of one token (base) to another (quote). P is fetched either from off-chain CEXes, or on-chain DEXes. ETH/USD price is the conversion rate of ETH to US Dollars, and it must be fetched from an off-chain CEX. ETH/USDC is the conversion rate of ETH to USDC token, and it can be fetched from an on-chain DEX or off-chain CEX. ETH/USDC and ETH/USD are not the same.
 
