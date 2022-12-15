@@ -14,7 +14,7 @@ Tokens:
 
 * Cake-LP is the LP token of PancakeSwap for the WBNB+BUSD pair. Cake-LP can be acquired from [pancakeswap.finance](https://pancakeswap.finance/add/BNB/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56). But you can always swap directly from BNB, WBNB, or BUSD in the Swap interface.
 * DDL-CP is the Collateral Provider token of the pool. Swapping from WBNB/BUSD/Cake-LP is providing collateral to the pool. Swapping from DDL-CP to Cake-LP is withdrawing collateral from the pool.
-* $$BNB^x$$: Derivative Tokens for BNB powered of x.
+* BNB^x: Derivative Tokens for BNB powered of x.
 
 Restriction:
 
