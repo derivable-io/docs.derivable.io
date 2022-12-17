@@ -4,8 +4,8 @@ description: Manage Wallet Exposure and Value
 
 # Exposure
 
-{% embed url="https://derivable.io/exposure" %}
-Derivable Exposure Interface
+{% embed url="https://derivable.io/trade/exposure" %}
+Exposure Interface
 {% endembed %}
 
 ![](<../.gitbook/assets/image (3).png>)
