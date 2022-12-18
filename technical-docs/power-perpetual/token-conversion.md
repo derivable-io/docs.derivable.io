@@ -1,6 +1,6 @@
 # Token Conversion
 
-Conversion rates between each token are calculated based on the input price. ExS-T = f(S, T, x) where S is the source token, T is the target token, and x is the input target price. x can be omitted when the current market price is used.
+Conversion rates between each token are calculated based on the input price. $$E^x_{S.T}$$ = f(S, T, x) where S is the source token, T is the target token, and x is the input target price. x can be omitted when the current market price is used.
 
 Uniswap Oracle provides both spot price and TWAP. For most parts of the protocol, the TWAP price is used for its manipulation resistance. Only for token conversion, the double price system is utilized since the price prediction is crucial so any market latency can be manipulated. Unlike in an AMM, arbitrageurs are not necessary nor desired in Power Perpetual.
 
@@ -13,7 +13,7 @@ With:
 * $$E^S_{DiC}$$ is the exchange rate from Di to C using the Spot Price
 * $$E^T_{DiC}$$ is the exchange rate from Di to C using the TWAP Price
 
-We have the conversion rate between C and D token as follows:
+We have the conversion rate between C and D tokens as follows:
 
 ## Mint Derivative
 
